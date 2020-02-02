@@ -1,0 +1,12 @@
+Oracle Database download:
+https://www.oracle.com/database/technologies/xe-downloads.html
+
+
+SQL Developer:
+https://www.oracle.com/tools/downloads/sqldev-v192-downloads.html
+
+
+Anaconda-Distribution for Python
+https://www.anaconda.com/distribution/
+
+
